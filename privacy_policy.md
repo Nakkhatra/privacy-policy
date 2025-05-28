@@ -1,7 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
-
+**Effective Date:** 28.05.2025
 ## Introduction
 
 Welcome to **Test Development** ("we", "our", or "us"). We are committed to protecting your privacy and handling your information in a secure and transparent manner. This Privacy Policy explains how we collect, use, and protect your information when you use our Facebook-integrated app.
