@@ -2,13 +2,11 @@
 
 **Effective Date:** 28.05.2025
 
-At **Test Development**, we value your privacy. If you wish to delete your data associated with our Facebook app, please follow the steps below:
+At **Test Development**, we value your privacy. To request deletion of your data associated with our Facebook app, please use one of the following methods:
 
 ---
 
 ## How to Request Data Deletion
-
-If you want to delete your data collected by **Test Development**, you can do so by:
 
 ### Option 1: Facebook App Settings
 1. Go to your Facebook account settings.
@@ -16,11 +14,11 @@ If you want to delete your data collected by **Test Development**, you can do so
 3. Find **Test Development** in the list of active apps.
 4. Click **"Remove"** to disconnect the app and delete all associated data.
 
-### Option 2: Contact Us Directly
-You can also request deletion by emailing us:
+### Option 2: Contact Us Directly via Email
 
-- **Email:** mdshahrin.nakkhatra@robi.com.bd  
-- **Subject:** _"Data Deletion Request for Test Development"_
+Click the link below to send your data deletion request by email:
+
+[Request Data Deletion via Email](mailto:mdshahrin.nakkhatra@robi.com.bd?subject=Data%20Deletion%20Request%20for%20Test%20Development)
 
 We will process your request within 7 days.
 
@@ -28,9 +26,7 @@ We will process your request within 7 days.
 
 ## Contact
 
-For any questions regarding your data, please contact us at:
+For any questions, please contact us at:
 
 **Email:** mdshahrin.nakkhatra@robi.com.bd  
 **Developer Name:** Nakkhatra
-
----
